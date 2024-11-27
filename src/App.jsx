@@ -1,9 +1,10 @@
+import FirstPage from "./firstPage"
 
 
 function App() {
 
   return (
-   <h1>REact Practice | from Code aur chai</h1>
+   <FirstPage/>
   )
 }
 
